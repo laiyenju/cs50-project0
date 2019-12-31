@@ -15,3 +15,6 @@ a introduction to myself, showing my interests, social mesdia accounts, etc.
 a showcase of my previeous works such as blogs and programing projects.
 - community.html
 a introduction to the activities and communities I often go.
+
+
+Go watch [demo video](https://youtu.be/KM22dXach28)!
