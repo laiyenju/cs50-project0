@@ -1,0 +1,10 @@
+//:hover無法動
+.card {
+  opacity: 0.8;
+
+  &:hover {
+    transform: scale(1.05);
+    opacity: 1;
+    transition: all 0.3s linear;
+  }
+}
